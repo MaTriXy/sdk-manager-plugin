@@ -1,3 +1,10 @@
+# DEPRECATED
+
+This plugin is deprecated and is no longer being developed. Tools and dependencies are [automatically downloaded](https://developer.android.com/studio/intro/update.html#download-with-gradle) using version 2.2.0 of the Android Gradle plugin or newer.
+
+![](http://i.imgur.com/8JsJXzn.jpg)
+
+
 SDK Manager Plugin
 ==================
 
